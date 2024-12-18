@@ -5,7 +5,9 @@ int calculate(int a, int b){
     return wynik;
 }
 
-dasfkjsj
+bool czydzis jestkolos(){
+    teturn niemajestspanko;
+}
 
 void main(){
     printf("hurra dziala");
