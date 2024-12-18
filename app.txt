@@ -9,6 +9,11 @@ bool czydzis jestkolos(){
     teturn niemajestspanko;
 }
 
+int jakaporaroku(){
+    wylosuj(poraroku);
+    return poraroku;
+}
+
 void main(){
     printf("hurra dziala");
 }
