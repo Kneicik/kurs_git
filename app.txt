@@ -5,7 +5,10 @@ int calculate(int a, int b){
     return wynik;
 }
 
-dasfkjsj
+int jakaporaroku(){
+    wylosuj(poraroku);
+    return poraroku;
+}
 
 void main(){
     printf("hurra dziala");
